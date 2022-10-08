@@ -14,6 +14,7 @@ As a result, this project will generate reports as shown below:
 
 The images below illustrate, that among 3 participants, the winner of the Election is Diana DeGette who received 272,892 votes (73.8% of the total voting count). 
 Likewise among 3 counties (Arapahoe, Denver and Jefferson, the Largest County Turnout is Denver with 82.8% of votes (306,055 votes) of a total of 369,711.  
+
 ![Image](https://github.com/rdonosob1/Election-Analysis/blob/main/The%20Election%20Results%20Printed%20to%20the%20Command%20Line.png)
 
 ## Election Audit Summary
