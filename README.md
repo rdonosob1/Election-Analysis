@@ -18,4 +18,12 @@ Likewise among 3 counties (Arapahoe, Denver and Jefferson, the Largest County Tu
 ![Image](https://github.com/rdonosob1/Election-Analysis/blob/main/The%20Election%20Results%20Printed%20to%20the%20Command%20Line.png)
 
 ## Election Audit Summary
-Finally, it is clear that this audit process has been successful, the current script is designed to analyze results from a congressional election with 3 candidates and 3 participant counties. However, this can be modified in the future using the same principle but not only for congresional and local election processes but also for senator elections as well as for presidential elections.  
+The analysis of the election illustrates that:
+- There were a total of 369,711 vots
+- The candidates for the congressional election and the results were as follows: (See image # 2, as reference).
+  -  Charles Casper Stockham with 23.0% of votes (totaling 85,213),
+  -  Diana DeGette with 73.8% of votes (totaling 272,892), and, 
+  -  Raymon Anthony Doane with 3.1% of votes (totaling 11,606).
+Therefore, it is clear than the winner of the election was Diana DeGette with 73.8% (272,892) of votes.
+[!Image] (https://github.com/rdonosob1/Election-Analysis/blob/main/The%20Election%20Results%20printed%20-%20Text%20File.png)
+Finally, it is clear that this audit process has been successful, the current script is designed to analyze results from a congressional election with 3 candidates and 3 participant counties. However, this can be modified in the future using the same principle but not only for congresional and local election processes but also for either a senator elections or for presidential elections.  
